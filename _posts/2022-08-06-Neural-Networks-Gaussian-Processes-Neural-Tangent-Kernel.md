@@ -1,7 +1,6 @@
 ---
 layout: post
-description: First post.
-title: "Welcome to the Blog!"
+title: "Neural Networks and Gaussian Processes. Neural Tangent Kernel"
 ---
 
 Around a month ago I set out to learn about the connection between Neural Networks (NN) and Gaussian Processes (GP), something that had been appearing more and more in the seminars I had been attending and literature I had been reading at the time.
