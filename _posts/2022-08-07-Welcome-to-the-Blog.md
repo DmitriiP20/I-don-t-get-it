@@ -1,7 +1,6 @@
 ---
 layout: post
 description: First post.
-categories: [markdown]
 title: "Welcome to the Blog!"
 ---
 
