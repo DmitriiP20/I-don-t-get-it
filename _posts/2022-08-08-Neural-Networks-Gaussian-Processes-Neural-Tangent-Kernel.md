@@ -9,8 +9,8 @@ This connection is _theoretically_ interesting because of the following. Standar
 
 ## Refresher on Gaussian Processes
 
-Every parametric model with $n$ inputs and $m$ outputs defines a function $F_{W}: \mathbb{R}^n \to \mathbb{R}^m$ that depends on the chosen parameters $W$. In the Bayesian approach, one starts with a _prior_ distribution $p(W)$ over the _parameters_ $W$. This in turn induces a distribution over functions $\{ F_W \}$ due to the above  identification $W \mapsto F_W$. This distribution lives directly in the function space. 
+Every parametric model with $n$ inputs and $m$ outputs defines a function $F_{W}: \mathbb{R}^n \to \mathbb{R}^m$ that depends on the chosen parameters $W$. In the Bayesian approach, one starts with a _prior_ distribution $p(W)$ over the _parameters_ $W$. This in turn induces a distribution over functions $\\{ F_W \\}\_W$ due to the above  identification $W \mapsto F_W$. This distribution lives directly in the function space. 
 
 ### Stochastic Processes
 
-This observation tempted researchers to consider distributions directly in the function space $\mathcal{F}=\{ F: \mathbb{R}^n \to \mathbb{R}^m \}$. However, one quickly runs into all sorts of mathematical complications due to the fact that the function space $\mathcal{F}$ is too large even if one imposes regularity conditions on the functions such as continuity, smoothness, etc.
+This observation tempted researchers to consider distributions directly in the function space $\mathcal{F}=\\{ F: \mathbb{R}^n \to \mathbb{R}^m \\}$. However, one quickly runs into all sorts of mathematical complications due to the fact that the function space $\mathcal{F}$ is too large even if one imposes regularity conditions on the functions such as continuity, smoothness, etc.
