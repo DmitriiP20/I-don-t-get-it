@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [ANN],[Gaussian Processes]
+categories: [ANN, Gaussian Processes]
 title: "Large Width Neural Networks and Gaussian Processes. Neural Tangent Kernel"
 ---
 
