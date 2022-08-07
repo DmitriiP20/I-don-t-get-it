@@ -1,15 +1,3 @@
-title: "My Title"
-description: "Awesome description"
-layout: post
-toc: false
-comments: true
-image: images/some_folder/your_image.png
-hide: false
-search_exclude: true
-categories: [fastpages, jupyter]
-metadata_key1: metadata_value1
-metadata_key2: metadata_value2
-
 # Welcome
 
 Hello, my name is [Dmitrii Pedchenko](https://www.linkedin.com/in/dmitrii-pedchenko-7464b11b0/). I am a research scientist currently working on machine learning infrastructure questions in Big Tech. Previously, I spent around 7 years in academia getting my PhD and workings as a professor, both in pure math (algebraic geometry). Even before that I worked in business consulting.
