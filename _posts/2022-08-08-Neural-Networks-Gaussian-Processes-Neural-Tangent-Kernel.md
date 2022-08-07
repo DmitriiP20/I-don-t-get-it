@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [ANN], [Gaussian Processes]
 title: " Large Width Neural Networks and Gaussian Processes. Neural Tangent Kernel"
 ---
 
@@ -14,3 +15,5 @@ Every parametric model with $n$ inputs and $m$ outputs defines a function $F_{W}
 ### Stochastic Processes
 
 This observation tempted researchers to consider distributions directly in the function space $\mathcal{F}=\\{ F: \mathbb{R}^n \to \mathbb{R}^m \\}$. However, one quickly runs into all sorts of mathematical complications due to the fact that the function space $\mathcal{F}$ is too large even if one imposes regularity conditions on the functions such as continuity, smoothness, etc.
+
+In the early XX century scientists found a way to circumvent this problem by coming up with a way of encoding the distribution over functions using finite/countable descriptions. 
