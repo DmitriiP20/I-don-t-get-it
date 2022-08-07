@@ -1,6 +1,5 @@
 ---
 layout: post
-description: First post.
 title: "Welcome to the Blog!"
 ---
 
